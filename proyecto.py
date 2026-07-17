@@ -1,4 +1,4 @@
-nombre = Wil
+nombre = Manuel
 apellido = Garcia
 
 saludo = "hola" + nombre + apellido + "Como estan?"
