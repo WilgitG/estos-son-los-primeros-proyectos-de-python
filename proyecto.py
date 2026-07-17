@@ -1,4 +1,4 @@
-nombre = Manuel
+nombre = Sevas
 apellido = Garcia
 
 saludo = "hola" + nombre + apellido + "Como estan?"
